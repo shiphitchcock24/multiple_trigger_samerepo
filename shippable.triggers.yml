@@ -1,5 +1,5 @@
 triggers:
   - name: triggertestop1
     type: trigger
-    pointer:
-      message: 'the new teso1'
+    version:
+      counter: 1
