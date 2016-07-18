@@ -1,5 +1,5 @@
 triggers:
-  - name: triggertest1
+  - name: triggertestop1
     type: trigger
-    source:
+    pointer:
       message: 'the new test'
