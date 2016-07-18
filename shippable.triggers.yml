@@ -2,4 +2,4 @@ triggers:
   - name: triggertestop1
     type: trigger
     pointer:
-      message: 'the new test'
+      message: 'the new test1'
