@@ -5,3 +5,4 @@ jobs:
       - IN: new-imagepol
       #- IN: new-image123
       - IN: triggetestop1
+    TASK: managed
